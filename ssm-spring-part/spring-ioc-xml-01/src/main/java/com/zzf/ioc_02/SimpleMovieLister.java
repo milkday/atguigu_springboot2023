@@ -1,4 +1,4 @@
-package org.zzf.ioc_02;
+package com.zzf.ioc_02;
 
 public class SimpleMovieLister {
 

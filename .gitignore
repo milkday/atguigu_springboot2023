@@ -22,3 +22,26 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+# 忽略IDE生成的文件
+.idea/
+
+# 忽略编译生成的目录
+target/
+
+# 忽略Spring Boot生成的运行时文件
+build/
+
+# 忽略日志文件
+logs/
+
+# 忽略本地配置文件
+application.properties
+application.yml
+
+.mvn/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
